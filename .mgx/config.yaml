@@ -1,4 +1,0 @@
-build: npm run build
-build_path: dist
-dev: npm run dev
-install: npm install
